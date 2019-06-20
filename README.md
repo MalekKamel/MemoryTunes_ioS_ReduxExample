@@ -1,6 +1,6 @@
 # MemoryTunes
 
- [Raywinderlich](https://www.raywenderlich.com/516-reswift-tutorial-memory-game-app). example 
+ [Raywinderlich](https://www.raywenderlich.com/516-reswift-tutorial-memory-game-app) example 
  for using [ReSwift](https://github.com/ReSwift/ReSwift)
  
  ## My Work:
